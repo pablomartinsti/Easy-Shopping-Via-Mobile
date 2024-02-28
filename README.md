@@ -2,5 +2,5 @@
 <br>
 <br>
 
-<img src="">
+<img src="https://github.com/pablomartinsti/Easy-Shopping-Via-Mobile/blob/master/img/projeto%20responsivo.png?raw=true">
 
